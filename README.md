@@ -24,5 +24,5 @@ It collects the following details from each project's "View Details" page:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Jyothi5h/rera-odisha-scraper.git
+git clone https://github.com/Jyothi5h/rera_odisha_scraper.git
 cd rera-odisha-scraper
