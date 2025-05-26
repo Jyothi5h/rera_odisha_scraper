@@ -25,4 +25,4 @@ It collects the following details from each project's "View Details" page:
 
 ```bash
 git clone https://github.com/Jyothi5h/rera_odisha_scraper.git
-cd rera-odisha-scraper
+cd rera_odisha_scraper
